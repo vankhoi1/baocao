@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\baocao\\",
+  "WorkspaceRootPath": "C:\\Users\\-\\source\\repos\\baocao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5FEAFA82-3539-43B1-B5D3-AD766B3223AA}|baocao\\baocao.csproj|c:\\users\\admin\\source\\repos\\baocao\\baocao\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5FEAFA82-3539-43B1-B5D3-AD766B3223AA}|baocao\\baocao.csproj|c:\\users\\-\\source\\repos\\baocao\\baocao\\timkiemsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FEAFA82-3539-43B1-B5D3-AD766B3223AA}|baocao\\baocao.csproj|solutionrelative:baocao\\timkiemsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEAFA82-3539-43B1-B5D3-AD766B3223AA}|baocao\\baocao.csproj|c:\\users\\-\\source\\repos\\baocao\\baocao\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5FEAFA82-3539-43B1-B5D3-AD766B3223AA}|baocao\\baocao.csproj|solutionrelative:baocao\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -14,23 +18,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Timkiemsach.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\-\\source\\repos\\baocao\\baocao\\Timkiemsach.cs",
+              "RelativeDocumentMoniker": "baocao\\Timkiemsach.cs",
+              "ToolTip": "C:\\Users\\-\\source\\repos\\baocao\\baocao\\Timkiemsach.cs [Design]",
+              "RelativeToolTip": "baocao\\Timkiemsach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T18:38:39.304Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "dangnhap.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\baocao\\baocao\\dangnhap.cs",
+              "DocumentMoniker": "C:\\Users\\-\\source\\repos\\baocao\\baocao\\dangnhap.cs",
               "RelativeDocumentMoniker": "baocao\\dangnhap.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\baocao\\baocao\\dangnhap.cs [Design]",
+              "ToolTip": "C:\\Users\\-\\source\\repos\\baocao\\baocao\\dangnhap.cs [Design]",
               "RelativeToolTip": "baocao\\dangnhap.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-19T18:25:27.136Z",
